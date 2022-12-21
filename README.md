@@ -18,11 +18,11 @@
 
 <h3>About Me:</h3>
 
-:computer: I’m aspiring Software Engingeer, willing to work on Frontend and Backend.
+:computer: Hi! I am a Full-Stack Web Developer specializing in PHP Laravel and React.js
 
 :gear: Exploring Machine Learning and Artificial Intelligence.
 
-:zap: In my free time, I listen to podcasts, read tech articles, and learn new skills.
+:zap: In my free time, I listen to podcasts, read tech articles, and learn new technologies.
 
 <hr/>
 
