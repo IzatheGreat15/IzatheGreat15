@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%">
 </p>
 
 <div id="badges" align="center">
@@ -18,7 +18,7 @@
 
 <h3>About Me:</h3>
 
-:computer: Hi! I am a Full-Stack Web Developer specializing in PHP Laravel and React.js
+:computer: Hi! I am a Full-Stack Web Developer specializing in PHP Laravel and Vue.js
 
 :gear: Exploring Machine Learning and Artificial Intelligence.
 
